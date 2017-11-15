@@ -9,8 +9,8 @@ using tools like*** **GitHub** ***and*** **Trello**.
 > ### [Тихомир Пенчев](https://github.com/spzvtbg/List-Processing)
 > ### [Стоян Златев](https://github.com/spzvtbg/List-Processing)
 
-1. General Requirements
-- Use GitHub as source code repository. The code is shared between all team members.
-- Use Trello for task management. Create tasks for each piece of work in your team.
+> ### 1. General Requirements
+  - Use ***GitHub*** as source code repository. The code is shared between all team members.
+  - Use ***Trello*** for task management. Create tasks for each piece of work in your team.
 
 
