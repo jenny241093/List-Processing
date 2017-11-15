@@ -8,11 +8,19 @@ using tools like*** **GitHub** ***and*** **Trello**.
 > ### [Евгения Занева](https://github.com/spzvtbg/List-Processing)
 > ### [Тихомир Пенчев](https://github.com/spzvtbg/List-Processing)
 > ### [Стоян Златев](https://github.com/spzvtbg/List-Processing)
-
 #
-
 > ### 1. General Requirements
   - Use ***GitHub*** as source code repository. The code is shared between all team members.
   - Use ***Trello*** for task management. Create tasks for each piece of work in your team.
+#
+> ### 2. Commands Description
+#
+> ### 3. Examples
+#
+> ### 4. Tasks in Trello
+#
+> ### 5. Submitting Your Work
+#
+### [For more information](https://softuni.bg/trainings/1799/practical-teamwork- sept-2017#lesson- 7104)
 
 
