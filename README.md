@@ -21,6 +21,6 @@ using tools like*** **GitHub** ***and*** **Trello**.
 #
 > ### 5. Submitting Your Work
 #
-> ### [For more information](https://softuni.bg/trainings/resources/officedocument/19286/exercise-problem-descriptions-practical-teamwork-sept-2017)
+> #### ***[For more information](https://softuni.bg/trainings/resources/officedocument/19286/exercise-problem-descriptions-practical-teamwork-sept-2017)
 
 
