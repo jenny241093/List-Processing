@@ -5,7 +5,7 @@
 using tools like*** **GitHub** ***and*** **Trello**.
 #
 #
-> ## With Contributors:
+> ## With Collaborators:
 > ### [Васко Викторов](https://github.com/spzvtbg/List-Processing)
 > ### [Евгения Занева](https://github.com/spzvtbg/List-Processing)
 > ### [Тихомир Пенчев](https://github.com/spzvtbg/List-Processing)
