@@ -1,8 +1,9 @@
+#
 # List-Processing - 08 / 11 / 2017 - Project Assignments
-
+#
 ***The goal of this teamwork exercise is to gain team collaboration skills 
 using tools like*** **GitHub** ***and*** **Trello**.
-
+#
 > ## With Contributors:
 > ### [Васко Викторов](https://github.com/spzvtbg/List-Processing)
 > ### [Евгения Занева](https://github.com/spzvtbg/List-Processing)
@@ -22,5 +23,6 @@ using tools like*** **GitHub** ***and*** **Trello**.
 > ### 5. Submitting Your Work
 #
 > #### [For more information](https://softuni.bg/trainings/resources/officedocument/19286/exercise-problem-descriptions-practical-teamwork-sept-2017)
+#
 
 
