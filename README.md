@@ -5,7 +5,7 @@
 using tools like*** **GitHub** ***and*** **Trello**.
 #
 #
-> ## With Collaborators:
+> ## With Contributors:
 > ### [Васко Викторов](https://softuni.bg/users/profile/show/backo_vd)
 > ### [Евгения Занева](https://softuni.bg/users/profile/show/jeni.zaneva)
 > ### [Тихомир Пенчев](https://softuni.bg/users/profile/show/tihomir_penchev)
