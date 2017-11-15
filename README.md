@@ -6,10 +6,13 @@ using tools like*** **GitHub** ***and*** **Trello**.
 #
 #
 > ## With Contributors:
-> ### [Васко Викторов](https://github.com/spzvtbg/List-Processing)
-> ### [Евгения Занева](https://github.com/spzvtbg/List-Processing)
-> ### [Тихомир Пенчев](https://github.com/spzvtbg/List-Processing)
-> ### [Стоян Златев](https://github.com/spzvtbg/List-Processing)
+> ### [Васко Викторов](https://softuni.bg/users/profile/show/backo_vd)
+> ### [Евгения Занева](https://softuni.bg/users/profile/show/jeni.zaneva)
+> ### [Тихомир Пенчев](https://softuni.bg/users/profile/show/tihomir_penchev)
+> ### [Стоян Златев](https://softuni.bg/users/profile/show/spzvtbg)
+#
+#
+> ### [Group in Trello](https://trello.com/listprocessing4)
 #
 #
 > ### 1. General Requirements
