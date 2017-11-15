@@ -12,6 +12,9 @@ using tools like*** **GitHub** ***and*** **Trello**.
 > ### [Стоян Златев](https://softuni.bg/users/profile/show/spzvtbg)
 #
 #
+> ### [Group in Trello](https://trello.com/listprocessing4)
+#
+#
 > ### 1. General Requirements
   - Use ***GitHub*** as source code repository. The code is shared between all team members.
   - Use ***Trello*** for task management. Create tasks for each piece of work in your team.
