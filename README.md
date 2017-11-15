@@ -21,6 +21,6 @@ using tools like*** **GitHub** ***and*** **Trello**.
 #
 > ### 5. Submitting Your Work
 #
-       - [For more information](https://softuni.bg/trainings/1799/practical-teamwork- sept-2017#lesson- 7104)
+  - [For more information](https://softuni.bg/trainings/1799/practical-teamwork- sept-2017#lesson- 7104)
 
 
